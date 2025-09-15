@@ -7,6 +7,7 @@ What is [Positron](https://positron.posit.co/)?
 - A familiar environment for reproducible authoring and publishing
 
 ![image](https://github.com/user-attachments/assets/51d7adf2-2a23-4c23-b10b-97b6052914c6)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fpositron.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fpositron?ref=badge_shield)
 
 
 ## Get started using Positron
@@ -35,3 +36,6 @@ Positron™ is licensed under the [Elastic License 2.0](https://github.com/posit
 
 Positron™ and the Positron icon™ are trademarks of Posit Software, PBC. All rights reserved.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fpositron.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fpositron?ref=badge_large)
